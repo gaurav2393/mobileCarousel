@@ -1,0 +1,1094 @@
+{
+    "data": {
+        "items": [
+            {
+                "type": "product",
+                "sku": "100087135",
+                "title": "Advantage® Canola Pan Release, 4/1gal",
+                "shortDesc": "This is a great non-stick pan release used for grill tops, saute pans, baking sheets.",
+                "longDesc": "This is a great non-stick pan release used for grill tops, sauté pans, baking sheets. Save money with refillable and reusable spray bottle technology. No added Propellant that may change the flavor of food.",
+                "attributes": [
+                    {
+                        "label": "Pack Size",
+                        "value": "Pack",
+                        "key": "pack_size"
+                    },
+                    {
+                        "label": "Customer Material Number",
+                        "key": "customer_material_number"
+                    }
+                ],
+                "assets": [
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_102",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_101",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Primary Image",
+                        "id": "PM_GEOS_100",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "product",
+                "sku": "110021627",
+                "title": "Advantage® Canola Plus Fry Oil, 35lb JIB",
+                "shortDesc": "This blend is cost-effective and great for pan and deep frying.",
+                "longDesc": "Advantage® Canola Plus Clear Liquid Frying oil is a blend of conventional canola oil, high oleic canola oil and conventional soybean oil.  This oil was blended to be competitively priced while also providing high performance.  The oil blend helps reduce oil price volatility and is a great choice for operators concerned with total system cost.  It has consistent, neutral flavor attribute and works well in different applications including stir-fry and deep frying. A case is a 35lb JIB (jug-in-box) and is purchased in full pallet quantities of 60 cases to a pallet.",
+                "attributes": [
+                    {
+                        "label": "Pack Size",
+                        "value": "Pack",
+                        "key": "pack_size"
+                    },
+                    {
+                        "label": "Customer Material Number",
+                        "key": "customer_material_number"
+                    }
+                ],
+                "assets": [
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_239",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Primary Image",
+                        "id": "PM_GEOS_236",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_237",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_238",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "product",
+                "sku": "110023184",
+                "title": "Advantage® Clear Plus Fry Oil, 35lb JIB",
+                "shortDesc": "This corn and soybean oil blend provides a subtle, sweet flavor profile.",
+                "longDesc": "Advantage® Clear Plus Liquid Frying oil is a blend of corn oil and conventional soybean oil.  The oil can give fried foods a pleasing golden color.  Food looks fresher longer, as compared to creamy shortenings, for great appetite appeal.  This frying oil is great for buffets and take-out food.  A case is a 35lb JIB (jug-in-box) and is purchased in full pallet quantities of 60 cases to a pallet.",
+                "attributes": [
+                    {
+                        "label": "Pack Size",
+                        "value": "Pack",
+                        "key": "pack_size"
+                    },
+                    {
+                        "label": "Customer Material Number",
+                        "key": "customer_material_number"
+                    }
+                ],
+                "assets": [
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_247",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Primary Image",
+                        "id": "PM_GEOS_244",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_245",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_246",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "product",
+                "sku": "110021628",
+                "title": "Advantage® Cotton Plus Fry Oil, 35lb JIB",
+                "shortDesc": "This cotton/canola blend is great for deep frying and is formulated for high smoke point.",
+                "longDesc": "Advantage® Cottonseed Plus Clear Liquid Frying oil is a blend of cottonseed oil and conventional canola oil.  The blend is formulated for high stability and high smoke point.  It is ideal for stir-fry and deep frying.  It maintains flavor even when used at high temperature and has a non-oily consistency that is desirable for frying breaded food like fish and chicken.  A case is a 35lb JIB (jug-in-box) and is purchased in full pallet quantities of 60 cases to a pallet.",
+                "attributes": [
+                    {
+                        "label": "Pack Size",
+                        "value": "Pack",
+                        "key": "pack_size"
+                    },
+                    {
+                        "label": "Customer Material Number",
+                        "key": "customer_material_number"
+                    }
+                ],
+                "assets": [
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_243",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_242",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_241",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Primary Image",
+                        "id": "PM_GEOS_240",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "product",
+                "sku": "100087372",
+                "title": "Advantage® Hi Heat Pan Spray, 6/16oz Can",
+                "shortDesc": "This pan spray is sodium free and has a non-stick formula that is high heat resistance.",
+                "longDesc": "This pan spray is sodium free and has a non-stick formula, It also is non-darkening/non-scorch and high heat resistance.",
+                "attributes": [
+                    {
+                        "label": "Pack Size",
+                        "value": "Pack",
+                        "key": "pack_size"
+                    },
+                    {
+                        "label": "Customer Material Number",
+                        "key": "customer_material_number"
+                    }
+                ],
+                "assets": [
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_117",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_116",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Primary Image",
+                        "id": "PM_GEOS_115",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "product",
+                "sku": "100087314",
+                "title": "Advantage® P-115NH All-Purpose Shortening 50lb Cube",
+                "shortDesc": "This all-purpose shortenings is suitable for a variety of bakery and frying applications.",
+                "longDesc": "Designed primarily for cookies, pie dough and donut frying, these shortenings are also suitable for a variety of other bakery and snack frying applications. Advantage® all-purpose shortenings allow for exceptional mouthfeel, lubricity, moisture retention, texture, structure and body. Additionally, their wide plasticity ranges make them easy to handle.",
+                "attributes": [
+                    {
+                        "label": "Pack Size",
+                        "value": "Pack",
+                        "key": "pack_size"
+                    },
+                    {
+                        "label": "Customer Material Number",
+                        "key": "customer_material_number"
+                    }
+                ],
+                "assets": [
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_177",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_176",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Primary Image",
+                        "id": "PM_GEOS_175",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "product",
+                "sku": "100087291",
+                "title": "Advantage® Pan Coating, Soybean, 6/22oz Can",
+                "shortDesc": "Prevents food from sticking and makes for easy clean-up.",
+                "longDesc": "Prevents food from sticking and makes for easy clean-up. The ideal choice to use in place of butter, margarine or oil on any cooking surface (up to 350°F).",
+                "attributes": [
+                    {
+                        "label": "Pack Size",
+                        "value": "Pack",
+                        "key": "pack_size"
+                    },
+                    {
+                        "label": "Customer Material Number",
+                        "key": "customer_material_number"
+                    }
+                ],
+                "assets": [
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_108",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_109",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Primary Image",
+                        "id": "PM_GEOS_107",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "product",
+                "sku": "100087081",
+                "title": "Cavalier Clear Soybean Fry Oil, 35lb JIB",
+                "shortDesc": "A cost-effective oil that can be used in deep and pan frying.",
+                "longDesc": "A cost-effective oil that can be used in deep and pan frying. A case is a 35lb JIB (jug-in-box) and is purchased in full pallet quantities of 60 cases to a pallet.",
+                "attributes": [
+                    {
+                        "label": "Pack Size",
+                        "value": "Pack",
+                        "key": "pack_size"
+                    },
+                    {
+                        "label": "Customer Material Number",
+                        "value": "29827",
+                        "key": "customer_material_number"
+                    }
+                ],
+                "assets": [
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_199",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Primary Image",
+                        "id": "PM_GEOS_198",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_200",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "product",
+                "sku": "100087361",
+                "title": "Cavalier Creamy Soybean Fry Oil, 35lb JIB",
+                "shortDesc": "This quality oil is great for frying applications and performance.",
+                "longDesc": "This Creamy Soybean Oil is cost-effective oil that can be used in a variety of frying applications.  A case is a 35lb JIB (jug-in-box) and is purchased in full pallet quantities of 60 cases to a pallet.",
+                "attributes": [
+                    {
+                        "label": "Pack Size",
+                        "value": "Pack",
+                        "key": "pack_size"
+                    },
+                    {
+                        "label": "Customer Material Number",
+                        "value": "29825",
+                        "key": "customer_material_number"
+                    }
+                ],
+                "assets": [
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_202",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_203",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Primary Image",
+                        "id": "PM_GEOS_201",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "product",
+                "sku": "100087244",
+                "title": "Clear Valley® All Purpose Fry Oil, 2/17.5lb Twin Pack",
+                "shortDesc": "This high stability oil provides superior fry life with a clean taste.",
+                "longDesc": "Clear Valley® All Purpose Cooking and Frying OIl is a High Oleic Canola Oil with high stability that provides longer shelf life, superior fry life and a clean flavor that doesn't interfere with your finished product.  Great for a variety of applications like frying, chips, crackers, bread and more. High Oleic Canola offers a nutritional profile with low levels of saturated fat and zero grams of trans fat per serving (14g serving size). A case contains 2 convenient and ergonomically friendly units of 17.5 lbs each and is purchased in full pallet quantities.",
+                "attributes": [
+                    {
+                        "label": "Pack Size",
+                        "value": "Pack",
+                        "key": "pack_size"
+                    },
+                    {
+                        "label": "Customer Material Number",
+                        "key": "customer_material_number"
+                    }
+                ],
+                "assets": [
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_280",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_281",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_279",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_278",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_277",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Primary Image",
+                        "id": "PM_GEOS_276",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "product",
+                "sku": "100087320",
+                "title": "Clear Valley® All-Purpose Shortening, 50lb Cube",
+                "shortDesc": "Verratile all-purpose shortening. Great for a variety of baking and frying applications.",
+                "longDesc": "Clear Valley® All-Purpose Shortening is a blend of high oleic canola, canola, and hydrogenated cottonseed.  This shortening has exceptional versatility and excellent performance matching the functionality, mouthfeel and stability of conventional shortenings.  Great for frying and a variety of baking applications like biscuits, tortillas, cookies, cakes, pastries, and other sweet goods.\nAvailable in 50lb cube.",
+                "attributes": [
+                    {
+                        "label": "Pack Size",
+                        "value": "Pack",
+                        "key": "pack_size"
+                    },
+                    {
+                        "label": "Customer Material Number",
+                        "key": "customer_material_number"
+                    }
+                ],
+                "assets": [
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_113",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_114",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_112",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Primary Image",
+                        "id": "PM_GEOS_110",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_111",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "product",
+                "sku": "100087054",
+                "title": "Clear Valley® High Oleic Canola (No Additives), 35 lb JIB",
+                "shortDesc": "High Oleic Canola Oil provides superior fry life and combined with a clean flavor profile.",
+                "longDesc": "High Oleic Canola Oil provides superior fry life and combined with  a clean flavor profile it delivers world class fried food concepts.  High Oleic Canola Oil is a healthy oil choice that contains zero trans per serving. Also low in saturated fats. Recommended for use in all deep frying applications.",
+                "attributes": [
+                    {
+                        "label": "Pack Size",
+                        "value": "Pack",
+                        "key": "pack_size"
+                    },
+                    {
+                        "label": "Customer Material Number",
+                        "key": "customer_material_number"
+                    }
+                ],
+                "assets": [
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_174",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_173",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Additional Image",
+                        "id": "PM_GEOS_172",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    },
+                    {
+                        "type": "Primary Image",
+                        "id": "PM_GEOS_171",
+                        "image": {
+                            "src": "/content/we-retail-journal/react/blog/aboutus/_jcr_content/root/responsivegrid/header_image.coreimg.jpeg/1473680810912.jpeg"
+                        }
+                    }
+                ]
+            }
+        ],
+        "sort": {
+            "types": [
+                {
+                    "selected": true,
+                    "id": "ASC",
+                    "label": "Sort by A-Z"
+                },
+                {
+                    "selected": false,
+                    "id": "DESC",
+                    "label": "Sort by Z-A"
+                }
+            ]
+        },
+        "facets": [
+            {
+                "id": "Oil Type",
+                "label": "Oil Type",
+                "expanded": false,
+                "values": [
+                    {
+                        "id": "Blend",
+                        "label": "Blend",
+                        "value": "Blend",
+                        "selected": false
+                    },
+                    {
+                        "id": "Canola Oil",
+                        "label": "Canola Oil",
+                        "value": "Canola Oil",
+                        "selected": false
+                    },
+                    {
+                        "id": "Corn Oil",
+                        "label": "Corn Oil",
+                        "value": "Corn Oil",
+                        "selected": false
+                    },
+                    {
+                        "id": "Cottonseed Oil",
+                        "label": "Cottonseed Oil",
+                        "value": "Cottonseed Oil",
+                        "selected": false
+                    },
+                    {
+                        "id": "High Oleic Canola Oil",
+                        "label": "High Oleic Canola Oil",
+                        "value": "High Oleic Canola Oil",
+                        "selected": false
+                    },
+                    {
+                        "id": "High Oleic Sunflower Oil",
+                        "label": "High Oleic Sunflower Oil",
+                        "value": "High Oleic Sunflower Oil",
+                        "selected": false
+                    },
+                    {
+                        "id": "Lard",
+                        "label": "Lard",
+                        "value": "Lard",
+                        "selected": false
+                    },
+                    {
+                        "id": "Olive Oil",
+                        "label": "Olive Oil",
+                        "value": "Olive Oil",
+                        "selected": false
+                    },
+                    {
+                        "id": "Palm Oil",
+                        "label": "Palm Oil",
+                        "value": "Palm Oil",
+                        "selected": false
+                    },
+                    {
+                        "id": "Peanut Oil",
+                        "label": "Peanut Oil",
+                        "value": "Peanut Oil",
+                        "selected": false
+                    },
+                    {
+                        "id": "Soybean Oil",
+                        "label": "Soybean Oil",
+                        "value": "Soybean Oil",
+                        "selected": false
+                    }
+                ]
+            },
+            {
+                "id": "Category",
+                "label": "Category",
+                "expanded": false,
+                "values": [
+                    {
+                        "id": "All Purpose Shortening",
+                        "label": "All Purpose Shortening",
+                        "value": "All Purpose Shortening",
+                        "selected": false
+                    },
+                    {
+                        "id": "Bakery Shortening",
+                        "label": "Bakery Shortening",
+                        "value": "Bakery Shortening",
+                        "selected": false
+                    },
+                    {
+                        "id": "Confectionery Fats",
+                        "label": "Confectionery Fats",
+                        "value": "Confectionery Fats",
+                        "selected": false
+                    },
+                    {
+                        "id": "Dressing, Sauce & Condiment Oils",
+                        "label": "Dressing, Sauce & Condiment Oils",
+                        "value": "Dressing, Sauce & Condiment Oils",
+                        "selected": false
+                    },
+                    {
+                        "id": "Flake Fats",
+                        "label": "Flake Fats",
+                        "value": "Flake Fats",
+                        "selected": false
+                    },
+                    {
+                        "id": "Frying Oils & Shortening",
+                        "label": "Frying Oils & Shortening",
+                        "value": "Frying Oils & Shortening",
+                        "selected": false
+                    },
+                    {
+                        "id": "Frying Oils & Shortenings",
+                        "label": "Frying Oils & Shortenings",
+                        "value": "Frying Oils & Shortenings",
+                        "selected": false
+                    },
+                    {
+                        "id": "High Oleic Oils",
+                        "label": "High Oleic Oils",
+                        "value": "High Oleic Oils",
+                        "selected": false
+                    },
+                    {
+                        "id": "High Oleic, Organic & Non-GMO Oils",
+                        "label": "High Oleic, Organic & Non-GMO Oils",
+                        "value": "High Oleic, Organic & Non-GMO Oils",
+                        "selected": false
+                    },
+                    {
+                        "id": "In-Store Bakery",
+                        "label": "In-Store Bakery",
+                        "value": "In-Store Bakery",
+                        "selected": false
+                    },
+                    {
+                        "id": "In-Store Deli",
+                        "label": "In-Store Deli",
+                        "value": "In-Store Deli",
+                        "selected": false
+                    },
+                    {
+                        "id": "Liquid Butter Alternatives",
+                        "label": "Liquid Butter Alternatives",
+                        "value": "Liquid Butter Alternatives",
+                        "selected": false
+                    },
+                    {
+                        "id": "Liquid Butter Alternatives and Pan & Grill",
+                        "label": "Liquid Butter Alternatives and Pan & Grill",
+                        "value": "Liquid Butter Alternatives and Pan & Grill",
+                        "selected": false
+                    },
+                    {
+                        "id": "Non-Dairy Fats",
+                        "label": "Non-Dairy Fats",
+                        "value": "Non-Dairy Fats",
+                        "selected": false
+                    },
+                    {
+                        "id": "Olive Oils",
+                        "label": "Olive Oils",
+                        "value": "Olive Oils",
+                        "selected": false
+                    },
+                    {
+                        "id": "Organic & Non-GMO Oils",
+                        "label": "Organic & Non-GMO Oils",
+                        "value": "Organic & Non-GMO Oils",
+                        "selected": false
+                    },
+                    {
+                        "id": "Pan & Grill",
+                        "label": "Pan & Grill",
+                        "value": "Pan & Grill",
+                        "selected": false
+                    },
+                    {
+                        "id": "Pan Spray & Releases",
+                        "label": "Pan Spray & Releases",
+                        "value": "Pan Spray & Releases",
+                        "selected": false
+                    },
+                    {
+                        "id": "Salad & Cooking Oils",
+                        "label": "Salad & Cooking Oils",
+                        "value": "Salad & Cooking Oils",
+                        "selected": false
+                    },
+                    {
+                        "id": "Shortening Cubes",
+                        "label": "Shortening Cubes",
+                        "value": "Shortening Cubes",
+                        "selected": false
+                    },
+                    {
+                        "id": "Snack Oils",
+                        "label": "Snack Oils",
+                        "value": "Snack Oils",
+                        "selected": false
+                    }
+                ]
+            },
+            {
+                "id": "Solutions",
+                "label": "Solutions",
+                "expanded": false,
+                "values": [
+                    {
+                        "id": "Clean Label",
+                        "label": "Clean Label",
+                        "value": "Clean Label",
+                        "selected": false
+                    },
+                    {
+                        "id": "Cost Optimization",
+                        "label": "Cost Optimization",
+                        "value": "Cost Optimization",
+                        "selected": false
+                    },
+                    {
+                        "id": "Health",
+                        "label": "Health",
+                        "value": "Health",
+                        "selected": false
+                    },
+                    {
+                        "id": "Other",
+                        "label": "Other",
+                        "value": "Other",
+                        "selected": false
+                    },
+                    {
+                        "id": "Sensory",
+                        "label": "Sensory",
+                        "value": "Sensory",
+                        "selected": false
+                    },
+                    {
+                        "id": "Sustainability",
+                        "label": "Sustainability",
+                        "value": "Sustainability",
+                        "selected": false
+                    }
+                ]
+            },
+            {
+                "id": "Brand",
+                "label": "Brand",
+                "expanded": false,
+                "values": [
+                    {
+                        "id": "Advantage®",
+                        "label": "Advantage®",
+                        "value": "Advantage®",
+                        "selected": false
+                    },
+                    {
+                        "id": "Cavalier",
+                        "label": "Cavalier",
+                        "value": "Cavalier",
+                        "selected": false
+                    },
+                    {
+                        "id": "Clear Valley®",
+                        "label": "Clear Valley®",
+                        "value": "Clear Valley®",
+                        "selected": false
+                    },
+                    {
+                        "id": "Crisco Professional®",
+                        "label": "Crisco Professional®",
+                        "value": "Crisco Professional®",
+                        "selected": false
+                    },
+                    {
+                        "id": "Filippo Berio Culinary Selection®",
+                        "label": "Filippo Berio Culinary Selection®",
+                        "value": "Filippo Berio Culinary Selection®",
+                        "selected": false
+                    },
+                    {
+                        "id": "Master Chef®",
+                        "label": "Master Chef®",
+                        "value": "Master Chef®",
+                        "selected": false
+                    },
+                    {
+                        "id": "Regal™",
+                        "label": "Regal™",
+                        "value": "Regal™",
+                        "selected": false
+                    },
+                    {
+                        "id": "Renaissance™",
+                        "label": "Renaissance™",
+                        "value": "Renaissance™",
+                        "selected": false
+                    },
+                    {
+                        "id": "Ultima Premium®",
+                        "label": "Ultima Premium®",
+                        "value": "Ultima Premium®",
+                        "selected": false
+                    },
+                    {
+                        "id": "Versa™",
+                        "label": "Versa™",
+                        "value": "Versa™",
+                        "selected": false
+                    }
+                ]
+            },
+            {
+                "id": "Application",
+                "label": "Application",
+                "expanded": false,
+                "values": [
+                    {
+                        "id": "Baking",
+                        "label": "Baking",
+                        "value": "Baking",
+                        "selected": false
+                    },
+                    {
+                        "id": "Basting",
+                        "label": "Basting",
+                        "value": "Basting",
+                        "selected": false
+                    },
+                    {
+                        "id": "Broiling",
+                        "label": "Broiling",
+                        "value": "Broiling",
+                        "selected": false
+                    },
+                    {
+                        "id": "Butter Flavoring",
+                        "label": "Butter Flavoring",
+                        "value": "Butter Flavoring",
+                        "selected": false
+                    },
+                    {
+                        "id": "Deep Frying",
+                        "label": "Deep Frying",
+                        "value": "Deep Frying",
+                        "selected": false
+                    },
+                    {
+                        "id": "Donut Frying",
+                        "label": "Donut Frying",
+                        "value": "Donut Frying",
+                        "selected": false
+                    },
+                    {
+                        "id": "Dressings",
+                        "label": "Dressings",
+                        "value": "Dressings",
+                        "selected": false
+                    },
+                    {
+                        "id": "Flavor Basting",
+                        "label": "Flavor Basting",
+                        "value": "Flavor Basting",
+                        "selected": false
+                    },
+                    {
+                        "id": "Gravies",
+                        "label": "Gravies",
+                        "value": "Gravies",
+                        "selected": false
+                    },
+                    {
+                        "id": "Grilling",
+                        "label": "Grilling",
+                        "value": "Grilling",
+                        "selected": false
+                    },
+                    {
+                        "id": "Mayonnaise",
+                        "label": "Mayonnaise",
+                        "value": "Mayonnaise",
+                        "selected": false
+                    },
+                    {
+                        "id": "Pan & Griddle Frying",
+                        "label": "Pan & Griddle Frying",
+                        "value": "Pan & Griddle Frying",
+                        "selected": false
+                    },
+                    {
+                        "id": "Roasting",
+                        "label": "Roasting",
+                        "value": "Roasting",
+                        "selected": false
+                    },
+                    {
+                        "id": "Salad Dressings",
+                        "label": "Salad Dressings",
+                        "value": "Salad Dressings",
+                        "selected": false
+                    },
+                    {
+                        "id": "Sauces",
+                        "label": "Sauces",
+                        "value": "Sauces",
+                        "selected": false
+                    },
+                    {
+                        "id": "Saute",
+                        "label": "Saute",
+                        "value": "Saute",
+                        "selected": false
+                    },
+                    {
+                        "id": "Stir Fry",
+                        "label": "Stir Fry",
+                        "value": "Stir Fry",
+                        "selected": false
+                    },
+                    {
+                        "id": "baking",
+                        "label": "baking",
+                        "value": "baking",
+                        "selected": false
+                    },
+                    {
+                        "id": "basting",
+                        "label": "basting",
+                        "value": "basting",
+                        "selected": false
+                    },
+                    {
+                        "id": "butter flavoring",
+                        "label": "butter flavoring",
+                        "value": "butter flavoring",
+                        "selected": false
+                    },
+                    {
+                        "id": "salad dressings",
+                        "label": "salad dressings",
+                        "value": "salad dressings",
+                        "selected": false
+                    }
+                ]
+            },
+            {
+                "id": "Package Size",
+                "label": "Package Size",
+                "expanded": false,
+                "values": [
+                    {
+                        "id": "3x1 gallon",
+                        "label": "3x1 gallon",
+                        "value": "3x1 gallon",
+                        "selected": false
+                    },
+                    {
+                        "id": "4x1 gallon",
+                        "label": "4x1 gallon",
+                        "value": "4x1 gallon",
+                        "selected": false
+                    },
+                    {
+                        "id": "50 lb Cube",
+                        "label": "50 lb Cube",
+                        "value": "50 lb Cube",
+                        "selected": false
+                    },
+                    {
+                        "id": "6/16 oz",
+                        "label": "6/16 oz",
+                        "value": "6/16 oz",
+                        "selected": false
+                    },
+                    {
+                        "id": "6/22 oz",
+                        "label": "6/22 oz",
+                        "value": "6/22 oz",
+                        "selected": false
+                    },
+                    {
+                        "id": "6x1 gallon",
+                        "label": "6x1 gallon",
+                        "value": "6x1 gallon",
+                        "selected": false
+                    },
+                    {
+                        "id": "JIB (Jug in Box)",
+                        "label": "JIB (Jug in Box)",
+                        "value": "JIB (Jug in Box)",
+                        "selected": false
+                    },
+                    {
+                        "id": "Twin Pack",
+                        "label": "Twin Pack",
+                        "value": "Twin Pack",
+                        "selected": false
+                    }
+                ]
+            }
+        ],
+        "page": {
+            "scrollID": "DnF1ZXJ5VGhlbkZldGNoBQAAAAAAA1yLFkQ2X0dRZ1pyUi1lMFpRb18zbGhMZFEAAAAAAANcjBZENl9HUWdaclItZTBaUW9fM2xoTGRRAAAAAAAD370WVkJZTlhGcVRTTmVmdXZOUkJlRk1zZwAAAAAAB-FvFmxGdU42UjZlUTRHTkgxTHRGNDByNUEAAAAAAAfhcBZsRnVONlI2ZVE0R05IMUx0RjQwcjVB",
+            "refresh": false
+        },
+        "metaData": [
+            {
+                "key": "totalCount",
+                "value": "52"
+            }
+        ],
+        "category": {}
+    }
+}
